@@ -1,0 +1,221 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    min-height: 100vh;
+    background: aliceblue;
+   
+}
+
+.main{
+    gap: 0px;
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    grid-template-rows: 90px 1fr;
+    grid-template-areas: " side-nav header  " " side-nav center" ;
+    min-height: 100vh;
+}
+
+.center{
+    margin-top: 50px;
+    gap: 20px;
+    display: grid;
+    grid-area: center;
+    grid-template-columns: 2fr 2fr;
+    padding: 20px 30px;
+}
+
+.nav{
+    width: auto;
+    padding: 20px 30px;
+    grid-area: header;
+    padding: 20px 30px;;
+}
+
+.navleft{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-right: 10px;
+}
+
+.images{
+    height: 35px;
+    width: 35px;
+    border-radius: 20px;
+    border: 1.5px rgb(53, 53, 53) solid;
+}
+
+.span{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h4s{
+    text-decoration: none;
+    color:#0f766e;
+}
+
+
+.h45{
+    border-radius: 12px;
+    padding: 5px;
+    color: #d9f3ee;
+    background: #0f766e;
+}
+
+.h45:hover{
+    border: #1f2937 1px solid;
+    border-radius: 12px;
+    padding: 5px;
+    color: green;
+    background: aliceblue;
+    box-shadow: 0px 8px 7px rgba(70, 70, 70, 0.689);
+}
+
+.h4s:hover{
+    border: #1f2937 1px solid;
+    border-radius: 12px;
+    padding: 10px;
+    color: #d9f3ee;
+    background: #0f766e;
+    box-shadow: 0px 8px 7px rgba(70, 70, 70, 0.689);
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 0.5;
+}
+
+.h2{
+    color: rgb(0, 94, 62);
+    width: 5px;
+}
+
+.text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color:rgb(5, 117, 40);
+}
+
+#text2{
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.button{
+    color: #0f766e;
+}
+
+.side-nav{
+    font-family: sans-serif;
+    border-right: 1px #ddd solid;
+    font-size: large;
+    padding: 30px 20px;
+    line-height: 2.8;
+    height: 100%;
+    width: auto;
+    background:aliceblue;
+    grid-area: side-nav;
+    color: #0f766e;
+}
+
+#button:hover{
+    color: #9ca3af;
+}
+
+.total-value{
+    margin-top: 20px;
+    background-color: aliceblue;
+    width: 95%;
+    margin-left: 25px;
+    padding: 10px ;
+    border-radius: 12px;
+    box-shadow: 0px 0px 5px rgba(70, 70, 70, 0.689);
+}
+
+.squad-stats{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 97%;
+}
+
+.squad-info{
+    background-color: aliceblue;
+    width: 95%;
+    padding: 10px ;
+    border-radius: 12px;
+    box-shadow: 0px 0px 5px rgba(70, 70, 70, 0.689);
+}
+
+/* value side */
+
+.value-by-position {
+    margin-top: 25px;
+}
+
+.value-by-position h3 {
+    font-size: 14px;
+    color: #172b4d;
+    margin-bottom: 18px;
+}
+
+.position {
+    margin-bottom: 15px;
+}
+
+.position-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    font-size: 12px;
+    color: #667085;
+}
+
+.bar {
+    width: 100%;
+    height: 7px;
+    background: #e8eeee;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.bar-fill {
+    height: 100%;
+    background: #159a8c;
+    border-radius: 10px;
+}
+
+/* Different bar lengths */
+
+.goalkeeper {
+    width: 20%;
+}
+
+.defenders {
+    width: 70%;
+}
+
+.midfielders {
+    width: 90%;
+}
+
+.forwards {
+    width: 85%;
+}
+
+.squad-background{
+    background-color: aliceblue;
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px ;
+    border-radius: 12px;
+    box-shadow: 0px 0px 5px rgba(70, 70, 70, 0.689);
+}

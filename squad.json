@@ -1,0 +1,3442 @@
+[
+  {
+    "rk": 1,
+    "player": "Haitam Abaida",
+    "nation": "MAR",
+    "pos": "FW",
+    "squad": "Malaga",
+    "age": 24
+  },
+  {
+    "rk": 2,
+    "player": "Hamza Abdelkarim",
+    "nation": "EGY",
+    "pos": "FW",
+    "squad": "Barcelona",
+    "age": 18
+  },
+  {
+    "rk": 3,
+    "player": "Jones El-Abdellaoui",
+    "nation": "MAR",
+    "pos": "MF,FW",
+    "squad": "celta Vigo",
+    "age": 20
+  },
+  {
+    "rk": 4,
+    "player": "Abdel Abqar",
+    "nation": "MAR",
+    "pos": "DF",
+    "squad": "Getafe",
+    "age": 27
+  },
+  {
+    "rk": 5,
+    "player": "Karim Adeyemi",
+    "nation": "GER",
+    "pos": "MF",
+    "squad": "Barcelona",
+    "age": 24
+  },
+  {
+    "rk": 6,
+    "player": "David Affengruber",
+    "nation": "AUT",
+    "pos": "DF",
+    "squad": "Elche",
+    "age": 25
+  },
+  {
+    "rk": 7,
+    "player": "Julen Agirrezabala",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Racing Santander",
+    "age": 25
+  },
+  {
+    "rk": 8,
+    "player": "Lucien Agoume",
+    "nation": "FRA",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 24
+  },
+  {
+    "rk": 9,
+    "player": "Marc Aguado",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 26
+  },
+  {
+    "rk": 10,
+    "player": "Ilias Akhomach",
+    "nation": "MAR",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 22
+  },
+  {
+    "rk": 11,
+    "player": "Alexandre Alemão",
+    "nation": "BRA",
+    "pos": "FW",
+    "squad": "Rayo Vallecano",
+    "age": 28
+  },
+  {
+    "rk": 12,
+    "player": "Carles Aleñá",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 28
+  },
+  {
+    "rk": 13,
+    "player": "Trent Alexander-Arnold",
+    "nation": "ENG",
+    "pos": "DF",
+    "squad": "Real Madrid",
+    "age": 27
+  },
+  {
+    "rk": 14,
+    "player": "Alfon",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Sevilla",
+    "age": 27
+  },
+  {
+    "rk": 15,
+    "player": "André Almeida",
+    "nation": "POR",
+    "pos": "FW,MF",
+    "squad": "Racing Santander",
+    "age": 26
+  },
+  {
+    "rk": 16,
+    "player": "Marcos Alonso",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "celta Vigo",
+    "age": 35
+  },
+  {
+    "rk": 17,
+    "player": "Adrià Altimira",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 25
+  },
+  {
+    "rk": 18,
+    "player": "Carlos Álvarez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 23
+  },
+  {
+    "rk": 19,
+    "player": "Hugo Álvarez",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 23
+  },
+  {
+    "rk": 20,
+    "player": "Julián Álvarez",
+    "nation": "ARG",
+    "pos": "FW,MF",
+    "squad": "Atletico Madrid",
+    "age": 26
+  },
+  {
+    "rk": 21,
+    "player": "Yeray Álvarez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 31
+  },
+  {
+    "rk": 22,
+    "player": "Lorenzo Amatucci",
+    "nation": "ITA",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 22
+  },
+  {
+    "rk": 23,
+    "player": "Miguel Ángel Sierra",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Sevilla",
+    "age": 22
+  },
+  {
+    "rk": 24,
+    "player": "Andrés Antañón",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 19
+  },
+  {
+    "rk": 25,
+    "player": "Antony",
+    "nation": "BRA",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 26
+  },
+  {
+    "rk": 26,
+    "player": "Jon Aramburu",
+    "nation": "VEN",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 24
+  },
+  {
+    "rk": 27,
+    "player": "Arana",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Racing Santander",
+    "age": 26
+  },
+  {
+    "rk": 28,
+    "player": "Jesús Areso",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 27
+  },
+  {
+    "rk": 29,
+    "player": "Iñigo Arguibide",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Osasuna",
+    "age": 21
+  },
+  {
+    "rk": 30,
+    "player": "Jonathan Asp Jensen",
+    "nation": "DEN",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 20
+  },
+  {
+    "rk": 31,
+    "player": "Iago Aspas",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 39
+  },
+  {
+    "rk": 32,
+    "player": "Pierre-Emerick Aubameyang",
+    "nation": "GAB",
+    "pos": "FW",
+    "squad": "Deportivo",
+    "age": 37
+  },
+  {
+    "rk": 33,
+    "player": "Ivan Azón",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Getafe",
+    "age": 23
+  },
+  {
+    "rk": 34,
+    "player": "Álex Baena",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Atletico Madrid",
+    "age": 25
+  },
+  {
+    "rk": 35,
+    "player": "Iván Balliu",
+    "nation": "ALB",
+    "pos": "DF",
+    "squad": "Rayo Vallecano",
+    "age": 34
+  },
+  {
+    "rk": 36,
+    "player": "Enzo Bardeli",
+    "nation": "FRA",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 25
+  },
+  {
+    "rk": 37,
+    "player": "Kike Barja",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 29
+  },
+  {
+    "rk": 38,
+    "player": "Ander Barrenetxea",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 24
+  },
+  {
+    "rk": 39,
+    "player": "Pablo Barrios",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 23
+  },
+  {
+    "rk": 40,
+    "player": "Marc Bartra",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 35
+  },
+  {
+    "rk": 41,
+    "player": "Augusto Batalla",
+    "nation": "ARG",
+    "pos": "GK",
+    "squad": "Rayo Vallecano",
+    "age": 30
+  },
+  {
+    "rk": 42,
+    "player": "Rafael Bauza",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 21
+  },
+  {
+    "rk": 43,
+    "player": "Luken Beitia",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 22
+  },
+  {
+    "rk": 44,
+    "player": "Héctor Bellerín",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 31
+  },
+  {
+    "rk": 45,
+    "player": "Jude Bellingham",
+    "nation": "ENG",
+    "pos": "MF",
+    "squad": "Real Madrid",
+    "age": 23
+  },
+  {
+    "rk": 46,
+    "player": "Jeanuël Belocian",
+    "nation": "FRA",
+    "pos": "DF",
+    "squad": "Racing Sant",
+    "age": 21
+  },
+  {
+    "rk": 47,
+    "player": "Carlos Benavídez",
+    "nation": "URU",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 28
+  },
+  {
+    "rk": 48,
+    "player": "Yuri Berchiche",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 36
+  },
+  {
+    "rk": 49,
+    "player": "Álex Berenguer",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 31
+  },
+  {
+    "rk": 50,
+    "player": "Facundo Bernal",
+    "nation": "URU",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 23
+  },
+  {
+    "rk": 51,
+    "player": "Marc Bernal",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Barcelona",
+    "age": 19
+  },
+  {
+    "rk": 52,
+    "player": "Pedro Bigas",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Elche",
+    "age": 35
+  },
+  {
+    "rk": 53,
+    "player": "Antonio Blanco",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 26
+  },
+  {
+    "rk": 54,
+    "player": "Adama Boiro",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 24
+  },
+  {
+    "rk": 55,
+    "player": "Sebastián Boselli",
+    "nation": "URU",
+    "pos": "DF",
+    "squad": "Getafe",
+    "age": 22
+  },
+  {
+    "rk": 56,
+    "player": "Lucas Boyé",
+    "nation": "ARG",
+    "pos": "FW",
+    "squad": "Alaves",
+    "age": 30
+  },
+  {
+    "rk": 57,
+    "player": "Enzo Boyomo",
+    "nation": "CMR",
+    "pos": "DF",
+    "squad": "Osasuna",
+    "age": 24
+  },
+  {
+    "rk": 58,
+    "player": "Abel Bretones",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Osasuna",
+    "age": 26
+  },
+  {
+    "rk": 59,
+    "player": "Brugui",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 29
+  },
+  {
+    "rk": 60,
+    "player": "Tajon Buchanan",
+    "nation": "CAN",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 27
+  },
+  {
+    "rk": 61,
+    "player": "Ante Budimir",
+    "nation": "CRO",
+    "pos": "FW",
+    "squad": "Osasuna",
+    "age": 35
+  },
+  {
+    "rk": 62,
+    "player": "Manu Bueno",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 22
+  },
+  {
+    "rk": 63,
+    "player": "Facundo Buonanotte",
+    "nation": "ARG",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 21
+  },
+  {
+    "rk": 64,
+    "player": "Leandro Cabrera",
+    "nation": "URU",
+    "pos": "DF",
+    "squad": "Espanyol",
+    "age": 35
+  },
+  {
+    "rk": 65,
+    "player": "Jens Cajuste",
+    "nation": "SWE",
+    "pos": "MF",
+    "squad": "Malaga",
+    "age": 27
+  },
+  {
+    "rk": 66,
+    "player": "Álex Calatrava",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 26
+  },
+  {
+    "rk": 67,
+    "player": "Eduardo Camavinga",
+    "nation": "FRA",
+    "pos": "MF",
+    "squad": "Real Madrid",
+    "age": 23
+  },
+  {
+    "rk": 68,
+    "player": "Sergio Camello",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Rayo Vallecano",
+    "age": 25
+  },
+  {
+    "rk": 69,
+    "player": "Peio Canales",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 21
+  },
+  {
+    "rk": 70,
+    "player": "Sergio Canales",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 35
+  },
+  {
+    "rk": 71,
+    "player": "João Cancelo",
+    "nation": "POR",
+    "pos": "DF,MF",
+    "squad": "Barcelona",
+    "age": 32
+  },
+  {
+    "rk": 72,
+    "player": "Dani Cárdenas",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Rayo Vallecano",
+    "age": 29
+  },
+  {
+    "rk": 73,
+    "player": "Sergi Cardona",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Villareal",
+    "age": 27
+  },
+  {
+    "rk": 74,
+    "player": "Johnny Cardoso",
+    "nation": "USA",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 24
+  },
+  {
+    "rk": 75,
+    "player": "Carmona",
+    "nation": "ESP",
+    "pos": "DF,MF",
+    "squad": "Sevilla",
+    "age": 24
+  },
+  {
+    "rk": 76,
+    "player": "Sergio Carreira",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "celta Vigo",
+    "age": 25
+  },
+  {
+    "rk": 77,
+    "player": "Álvaro Carreras",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Madrid",
+    "age": 23
+  },
+  {
+    "rk": 78,
+    "player": "Marc Casado",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 22
+  },
+  {
+    "rk": 79,
+    "player": "Castrin",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Sevilla",
+    "age": 23
+  },
+  {
+    "rk": 80,
+    "player": "Jonny Castro",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Alaves",
+    "age": 32
+  },
+  {
+    "rk": 81,
+    "player": "Catena",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Osasuna",
+    "age": 31
+  },
+  {
+    "rk": 82,
+    "player": "Lucas Cepeda",
+    "nation": "CHI",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 23
+  },
+  {
+    "rk": 83,
+    "player": "Andreas Christensen",
+    "nation": "DEN",
+    "pos": "DF",
+    "squad": "Barcelona",
+    "age": 30
+  },
+  {
+    "rk": 84,
+    "player": "Chupete",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Malaga",
+    "age": 22
+  },
+  {
+    "rk": 85,
+    "player": "Víctor Chust",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Elche",
+    "age": 26
+  },
+  {
+    "rk": 86,
+    "player": "Pathé Ciss",
+    "nation": "SEN",
+    "pos": "DF,MF",
+    "squad": "Rayo Vallecano",
+    "age": 32
+  },
+  {
+    "rk": 87,
+    "player": "Santi Comesaña",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 29
+  },
+  {
+    "rk": 88,
+    "player": "Iker Córdoba",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 20
+  },
+  {
+    "rk": 89,
+    "player": "Félix Correia",
+    "nation": "POR",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 25
+  },
+  {
+    "rk": 90,
+    "player": "Paco Cortés",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 19
+  },
+  {
+    "rk": 91,
+    "player": "Logan Costa",
+    "nation": "CPV",
+    "pos": "DF",
+    "squad": "Villareal",
+    "age": 25
+  },
+  {
+    "rk": 92,
+    "player": "Thibaut Courtois",
+    "nation": "BEL",
+    "pos": "GK",
+    "squad": "Real Madrid",
+    "age": 34
+  },
+  {
+    "rk": 93,
+    "player": "Juan Cruz",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Malaga",
+    "age": 26
+  },
+  {
+    "rk": 94,
+    "player": "Pau Cubarsí",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Barcelona",
+    "age": 19
+  },
+  {
+    "rk": 95,
+    "player": "Cucho",
+    "nation": "COL",
+    "pos": "FW",
+    "squad": "Real Betis",
+    "age": 27
+  },
+  {
+    "rk": 96,
+    "player": "Marc Cucurella",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Madrid",
+    "age": 28
+  },
+  {
+    "rk": 97,
+    "player": "Arnaut Danjuma",
+    "nation": "NED",
+    "pos": "FW,MF",
+    "squad": "Valencia",
+    "age": 29
+  },
+  {
+    "rk": 98,
+    "player": "Davinchi",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Getafe",
+    "age": 18
+  },
+  {
+    "rk": 99,
+    "player": "Nelson Deossa",
+    "nation": "COL",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 26
+  },
+  {
+    "rk": 100,
+    "player": "Mouctar Diakhaby",
+    "nation": "GUI",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 29
+  },
+  {
+    "rk": 101,
+    "player": "Brahim Díaz",
+    "nation": "MAR",
+    "pos": "MF",
+    "squad": "Real Madrid",
+    "age": 27
+  },
+  {
+    "rk": 102,
+    "player": "Diego Diaz",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Racing Sant",
+    "age": 21
+  },
+  {
+    "rk": 103,
+    "player": "Julio Diaz",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 21
+  },
+  {
+    "rk": 104,
+    "player": "Pedro Díaz",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Rayo Vallecano",
+    "age": 28
+  },
+  {
+    "rk": 105,
+    "player": "Aliou Dieng",
+    "nation": "MLI",
+    "pos": "MF",
+    "squad": "Valencia",
+    "age": 28
+  },
+  {
+    "rk": 106,
+    "player": "Stole Dimitrievski",
+    "nation": "MKD",
+    "pos": "GK",
+    "squad": "Valencia",
+    "age": 32
+  },
+  {
+    "rk": 107,
+    "player": "Yan Diomandé",
+    "nation": "CIV",
+    "pos": "FW",
+    "squad": "Real Madrid",
+    "age": 19
+  },
+  {
+    "rk": 108,
+    "player": "Matías Dituro",
+    "nation": "ARG",
+    "pos": "GK",
+    "squad": "Elche",
+    "age": 39
+  },
+  {
+    "rk": 109,
+    "player": "Álvaro djaló",
+    "nation": "GNB",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 27
+  },
+  {
+    "rk": 110,
+    "player": "Djené",
+    "nation": "TOG",
+    "pos": "DF",
+    "squad": "Getafe",
+    "age": 34
+  },
+  {
+    "rk": 111,
+    "player": "Marko Dmitrović",
+    "nation": "SRB",
+    "pos": "GK",
+    "squad": "Espanyol",
+    "age": 34
+  },
+  {
+    "rk": 112,
+    "player": "Tyrhys Dolan",
+    "nation": "ENG",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 24
+  },
+  {
+    "rk": 113,
+    "player": "Jorge Domínguez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 16
+  },
+  {
+    "rk": 114,
+    "player": "Carlos Dotor",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Malaga",
+    "age": 25
+  },
+  {
+    "rk": 115,
+    "player": "Couhaib Driouech",
+    "nation": "MAR",
+    "pos": "FW,MF",
+    "squad": "celta Vigo",
+    "age": 24
+  },
+  {
+    "rk": 116,
+    "player": "Vanja Drkušič",
+    "nation": "SVN",
+    "pos": "DF",
+    "squad": "Espanyol",
+    "age": 26
+  },
+  {
+    "rk": 117,
+    "player": "Jonathan Dubasin",
+    "nation": "BEL",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 26
+  },
+  {
+    "rk": 118,
+    "player": "Denzel Dumfries",
+    "nation": "NED",
+    "pos": "DF",
+    "squad": "Real Madrid",
+    "age": 30
+  },
+  {
+    "rk": 119,
+    "player": "Pablo Durán",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 25
+  },
+  {
+    "rk": 120,
+    "player": "Hugo Duro",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Valencia",
+    "age": 26
+  },
+  {
+    "rk": 121,
+    "player": "Zakaria Eddahchouri",
+    "nation": "NED",
+    "pos": "FW",
+    "squad": "Deportivo",
+    "age": 26
+  },
+  {
+    "rk": 122,
+    "player": "Bright Ede",
+    "nation": "POL",
+    "pos": "DF",
+    "squad": "Deportivo",
+    "age": 19
+  },
+  {
+    "rk": 123,
+    "player": "Chidera Ejuke",
+    "nation": "NGA",
+    "pos": "FW",
+    "squad": "Sevilla",
+    "age": 28
+  },
+  {
+    "rk": 124,
+    "player": "Harvey Elliott",
+    "nation": "ENG",
+    "pos": "FW,MF",
+    "squad": "Valencia",
+    "age": 23
+  },
+  {
+    "rk": 125,
+    "player": "Ramón Enríquez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Malaga",
+    "age": 25
+  },
+  {
+    "rk": 126,
+    "player": "Xavi Espart",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Barcelona",
+    "age": 19
+  },
+  {
+    "rk": 127,
+    "player": "Carlos Espí",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Real Madrid",
+    "age": 21
+  },
+  {
+    "rk": 128,
+    "player": "Karl Etta Eyong",
+    "nation": "CMR",
+    "pos": "FW",
+    "squad": "Levante",
+    "age": 22
+  },
+  {
+    "rk": 129,
+    "player": "Edu Expósito",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 30
+  },
+  {
+    "rk": 130,
+    "player": "Abde Ezzalzouli",
+    "nation": "MAR",
+    "pos": "FW,MF",
+    "squad": "Real Betis",
+    "age": 24
+  },
+  {
+    "rk": 131,
+    "player": "Abdoulaye Faye",
+    "nation": "SEN",
+    "pos": "DF",
+    "squad": "celta Vigo",
+    "age": 21
+  },
+  {
+    "rk": 132,
+    "player": "Aleix Febas",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "celta Vigo",
+    "age": 30
+  },
+  {
+    "rk": 133,
+    "player": "Pedro Felipe",
+    "nation": "BRA",
+    "pos": "DF",
+    "squad": "Racing Sant",
+    "age": 22
+  },
+  {
+    "rk": 134,
+    "player": "Kiko Femenía",
+    "nation": "ESP",
+    "pos": "DF,MF",
+    "squad": "Getafe",
+    "age": 35
+  },
+  {
+    "rk": 135,
+    "player": "Marcos Fernández",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Espanyol",
+    "age": 23
+  },
+  {
+    "rk": 136,
+    "player": "Pelayo Fernandez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Rayo Vallecano",
+    "age": 23
+  },
+  {
+    "rk": 137,
+    "player": "Roberto Férnandez",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Espanyol",
+    "age": 24
+  },
+  {
+    "rk": 138,
+    "player": "Thiago Fernández",
+    "nation": "ARG",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 22
+  },
+  {
+    "rk": 139,
+    "player": "Álvaro Fidalgo",
+    "nation": "MEX",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 29
+  },
+  {
+    "rk": 140,
+    "player": "Junior Firpo",
+    "nation": "DOM",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 30
+  },
+  {
+    "rk": 141,
+    "player": "Youssouf Fofana",
+    "nation": "FRA",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 27
+  },
+  {
+    "rk": 142,
+    "player": "Pablo Fornals",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 30
+  },
+  {
+    "rk": 143,
+    "player": "Héctor Fort",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 20
+  },
+  {
+    "rk": 144,
+    "player": "Juan Foyth",
+    "nation": "ARG",
+    "pos": "DF",
+    "squad": "Villareal",
+    "age": 28
+  },
+  {
+    "rk": 145,
+    "player": "Alex Freeman",
+    "nation": "USA",
+    "pos": "DF",
+    "squad": "Villareal",
+    "age": 22
+  },
+  {
+    "rk": 146,
+    "player": "Jorge de Frutos",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Rayo Vallecano",
+    "age": 29
+  },
+  {
+    "rk": 147,
+    "player": "Javi Galán",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "celta Vigo",
+    "age": 31
+  },
+  {
+    "rk": 148,
+    "player": "Iñigo Ruiz de Galarreta",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 33
+  },
+  {
+    "rk": 149,
+    "player": "Einar Galilea",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Malaga",
+    "age": 32
+  },
+  {
+    "rk": 150,
+    "player": "Álvaro García",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Rayo Vallecano",
+    "age": 33
+  },
+  {
+    "rk": 151,
+    "player": "Andrés García",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Getafe",
+    "age": 23
+  },
+  {
+    "rk": 152,
+    "player": "Eric García",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Barcelona",
+    "age": 25
+  },
+  {
+    "rk": 153,
+    "player": "Fran Garcia",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 27
+  },
+  {
+    "rk": 154,
+    "player": "Joan García",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Barcelona",
+    "age": 25
+  },
+  {
+    "rk": 155,
+    "player": "Pablo Garcia",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 20
+  },
+  {
+    "rk": 156,
+    "player": "Pablo Garcia",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Real Betis",
+    "age": 20
+  },
+  {
+    "rk": 157,
+    "player": "Rubén García",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 33
+  },
+  {
+    "rk": 158,
+    "player": "Víctor García",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 28
+  },
+  {
+    "rk": 159,
+    "player": "Rafael Garrido",
+    "nation": "nan",
+    "pos": "DF",
+    "squad": "Malaga",
+    "age": null
+  },
+  {
+    "rk": 160,
+    "player": "Gavi",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Barcelona",
+    "age": 22
+  },
+  {
+    "rk": 161,
+    "player": "Beñat Gerenabarrena",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 23
+  },
+  {
+    "rk": 162,
+    "player": "Teun Gijselhart",
+    "nation": "NED",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 21
+  },
+  {
+    "rk": 163,
+    "player": "Gnangoro",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Rayo Vallecano",
+    "age": 22
+  },
+  {
+    "rk": 164,
+    "player": "Moi Gómez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 32
+  },
+  {
+    "rk": 165,
+    "player": "Sergio Gómez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 26
+  },
+  {
+    "rk": 166,
+    "player": "Valentín Gómez",
+    "nation": "ARG",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 23
+  },
+  {
+    "rk": 167,
+    "player": "Facundo González",
+    "nation": "URU",
+    "pos": "DF",
+    "squad": "Racing Sant",
+    "age": 23
+  },
+  {
+    "rk": 168,
+    "player": "Hugo González",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 23
+  },
+  {
+    "rk": 169,
+    "player": "Urko González",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 25
+  },
+  {
+    "rk": 170,
+    "player": "Anthony Gordon",
+    "nation": "ENG",
+    "pos": "FW,MF",
+    "squad": "Barcelona",
+    "age": 25
+  },
+  {
+    "rk": 171,
+    "player": "Jon Gorrotxategi",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 24
+  },
+  {
+    "rk": 172,
+    "player": "Álex Grimaldo",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 30
+  },
+  {
+    "rk": 173,
+    "player": "Nemanja Gudelj",
+    "nation": "SRB",
+    "pos": "DF",
+    "squad": "Getafe",
+    "age": 34
+  },
+  {
+    "rk": 174,
+    "player": "Gonçalo Guedes",
+    "nation": "POR",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 29
+  },
+  {
+    "rk": 175,
+    "player": "Javier Guerra",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Valencia",
+    "age": 23
+  },
+  {
+    "rk": 176,
+    "player": "Ander Guevara",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 29
+  },
+  {
+    "rk": 177,
+    "player": "Maguette Gueye",
+    "nation": "SEN",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 23
+  },
+  {
+    "rk": 178,
+    "player": "Pape Gueye",
+    "nation": "SEN",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 27
+  },
+  {
+    "rk": 179,
+    "player": "Nicolás Guilén Peguero",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 18
+  },
+  {
+    "rk": 180,
+    "player": "Arda Güler",
+    "nation": "TUR",
+    "pos": "MF",
+    "squad": "Real Madrid",
+    "age": 21
+  },
+  {
+    "rk": 181,
+    "player": "Giorgi Guliashvili",
+    "nation": "GEO",
+    "pos": "FW",
+    "squad": "Racing Sant",
+    "age": 25
+  },
+  {
+    "rk": 182,
+    "player": "Jon Guridi",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 31
+  },
+  {
+    "rk": 183,
+    "player": "Gorka Guruzeta",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Athletic Club",
+    "age": 30
+  },
+  {
+    "rk": 184,
+    "player": "Justin de Haas",
+    "nation": "NED",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 26
+  },
+  {
+    "rk": 185,
+    "player": "Dávid Hancko",
+    "nation": "SVK",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 28
+  },
+  {
+    "rk": 186,
+    "player": "Quilindschy Hartman",
+    "nation": "NED",
+    "pos": "DF",
+    "squad": "Espanyol",
+    "age": 24
+  },
+  {
+    "rk": 187,
+    "player": "Javier Hernández",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Espanyol",
+    "age": 22
+  },
+  {
+    "rk": 188,
+    "player": "Yeremay Hernández",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 23
+  },
+  {
+    "rk": 189,
+    "player": "Manu Hernando",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Racing Sant",
+    "age": 28
+  },
+  {
+    "rk": 190,
+    "player": "Jorge Herrando",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Osasuna",
+    "age": 25
+  },
+  {
+    "rk": 191,
+    "player": "Sergio Herrera",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Osasuna",
+    "age": 33
+  },
+  {
+    "rk": 192,
+    "player": "Yangel Herrera",
+    "nation": "VEN",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 28
+  },
+  {
+    "rk": 193,
+    "player": "Alfonso Herrero",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Malaga",
+    "age": 32
+  },
+  {
+    "rk": 194,
+    "player": "Omar El Hilali",
+    "nation": "MAR",
+    "pos": "DF",
+    "squad": "Espanyol",
+    "age": 23
+  },
+  {
+    "rk": 195,
+    "player": "Roger Hinojo",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Espanyol",
+    "age": 21
+  },
+  {
+    "rk": 196,
+    "player": "Morten Hjulmand",
+    "nation": "DEN",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 27
+  },
+  {
+    "rk": 197,
+    "player": "Ali Houary",
+    "nation": "MAR",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 21
+  },
+  {
+    "rk": 198,
+    "player": "Dean Huijsen",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Madrid",
+    "age": 21
+  },
+  {
+    "rk": 199,
+    "player": "Pablo Ibáñez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 27
+  },
+  {
+    "rk": 200,
+    "player": "Iglesias",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Sevilla",
+    "age": 28
+  },
+  {
+    "rk": 201,
+    "player": "Borja Iglesias",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 33
+  },
+  {
+    "rk": 202,
+    "player": "Isco",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 34
+  },
+  {
+    "rk": 203,
+    "player": "Eneko Jauregi",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Malaga",
+    "age": 30
+  },
+  {
+    "rk": 204,
+    "player": "Mikel Jauregizar",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 22
+  },
+  {
+    "rk": 205,
+    "player": "Gabriel Jesus",
+    "nation": "BRA",
+    "pos": "FW,MF",
+    "squad": "Barcelona",
+    "age": 29
+  },
+  {
+    "rk": 206,
+    "player": "Jofre",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 25
+  },
+  {
+    "rk": 207,
+    "player": "Josan",
+    "nation": "ESP",
+    "pos": "DF,MF",
+    "squad": "Elche",
+    "age": 36
+  },
+  {
+    "rk": 208,
+    "player": "Luiz Lúcio Reis Júnior",
+    "nation": "BRA",
+    "pos": "GK",
+    "squad": "Villareal",
+    "age": 25
+  },
+  {
+    "rk": 209,
+    "player": "Vinicius Júnior",
+    "nation": "BRA",
+    "pos": "MF",
+    "squad": "Real Madrid",
+    "age": 26
+  },
+  {
+    "rk": 210,
+    "player": "Ferran Jutglà",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 27
+  },
+  {
+    "rk": 211,
+    "player": "Lee Kang-in",
+    "nation": "KOR",
+    "pos": "FW",
+    "squad": "Atletico Madrid",
+    "age": 25
+  },
+  {
+    "rk": 212,
+    "player": "Giorgi Kochorashvili",
+    "nation": "GEO",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 27
+  },
+  {
+    "rk": 213,
+    "player": "Koke",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 34
+  },
+  {
+    "rk": 214,
+    "player": "Umaru Konare",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Elche",
+    "age": 22
+  },
+  {
+    "rk": 215,
+    "player": "Ibrahima Konaté",
+    "nation": "FRA",
+    "pos": "DF",
+    "squad": "Real Madrid",
+    "age": 27
+  },
+  {
+    "rk": 216,
+    "player": "Ville Koski",
+    "nation": "FIN",
+    "pos": "DF",
+    "squad": "Alaves",
+    "age": 24
+  },
+  {
+    "rk": 217,
+    "player": "Jules Koundé",
+    "nation": "FRA",
+    "pos": "DF",
+    "squad": "Barcelona",
+    "age": 27
+  },
+  {
+    "rk": 218,
+    "player": "Takefusa Kubo",
+    "nation": "JPN",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 25
+  },
+  {
+    "rk": 219,
+    "player": "Adrián de la Fuente",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Levante",
+    "age": 27
+  },
+  {
+    "rk": 220,
+    "player": "Yoel Lago",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "celta Vigo",
+    "age": 22
+  },
+  {
+    "rk": 221,
+    "player": "Aymeric Laporte",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 32
+  },
+  {
+    "rk": 222,
+    "player": "David Larrubia",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Malaga",
+    "age": 24
+  },
+  {
+    "rk": 223,
+    "player": "Robin Le Normand",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 29
+  },
+  {
+    "rk": 224,
+    "player": "Florian Lejeune",
+    "nation": "FRA",
+    "pos": "DF",
+    "squad": "Rayo Vallecano",
+    "age": 35
+  },
+  {
+    "rk": 225,
+    "player": "Youssef Lekhedim",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Alaves",
+    "age": 20
+  },
+  {
+    "rk": 226,
+    "player": "Thomas Lemar",
+    "nation": "FRA",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 30
+  },
+  {
+    "rk": 227,
+    "player": "Diego Llorente",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 33
+  },
+  {
+    "rk": 228,
+    "player": "Marcos Llorente",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 31
+  },
+  {
+    "rk": 229,
+    "player": "Julen Lobete",
+    "nation": "ESP",
+    "pos": "FW,MF",
+    "squad": "Malaga",
+    "age": 25
+  },
+  {
+    "rk": 230,
+    "player": "Ademola Lookman",
+    "nation": "NGA",
+    "pos": "MF,FW",
+    "squad": "Atletico Madrid",
+    "age": 28
+  },
+  {
+    "rk": 231,
+    "player": "Fermin López",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Barcelona",
+    "age": 23
+  },
+  {
+    "rk": 232,
+    "player": "Oscar Lopez",
+    "nation": "BOL",
+    "pos": "MF",
+    "squad": "Getafe",
+    "age": 20
+  },
+  {
+    "rk": 233,
+    "player": "Unai López",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Rayo Vallecano",
+    "age": 30
+  },
+  {
+    "rk": 234,
+    "player": "Dani Lorenzo",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Malaga",
+    "age": 23
+  },
+  {
+    "rk": 235,
+    "player": "Johaneko Louisjean",
+    "nation": "FRA",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 22
+  },
+  {
+    "rk": 236,
+    "player": "Miguel Loureiro",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Deportivo",
+    "age": 29
+  },
+  {
+    "rk": 237,
+    "player": "Pol Lozano",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 26
+  },
+  {
+    "rk": 238,
+    "player": "José Luis Gayà",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 31
+  },
+  {
+    "rk": 239,
+    "player": "Luismi",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 25
+  },
+  {
+    "rk": 240,
+    "player": "Carlos Macià",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 18
+  },
+  {
+    "rk": 241,
+    "player": "Pablo Maffeo",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 29
+  },
+  {
+    "rk": 242,
+    "player": "Aitor Mañas",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Alaves",
+    "age": 23
+  },
+  {
+    "rk": 243,
+    "player": "Aïssa Mandi",
+    "nation": "ALG",
+    "pos": "DF",
+    "squad": "Levante",
+    "age": 34
+  },
+  {
+    "rk": 244,
+    "player": "Orel Mangala",
+    "nation": "BEL",
+    "pos": "MF",
+    "squad": "Getafe",
+    "age": 28
+  },
+  {
+    "rk": 245,
+    "player": "Mantilla",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Racing Sant",
+    "age": 26
+  },
+  {
+    "rk": 246,
+    "player": "Alex Marchal",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 18
+  },
+  {
+    "rk": 247,
+    "player": "José María Giménez",
+    "nation": "URU",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 31
+  },
+  {
+    "rk": 248,
+    "player": "José María Giménez",
+    "nation": "URU",
+    "pos": "DF",
+    "squad": "Deportivo",
+    "age": 31
+  },
+  {
+    "rk": 249,
+    "player": "Mariano",
+    "nation": "DOM",
+    "pos": "FW",
+    "squad": "Alaves",
+    "age": 33
+  },
+  {
+    "rk": 250,
+    "player": "Unai Marrero",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Real Sociedad",
+    "age": 24
+  },
+  {
+    "rk": 251,
+    "player": "Aarón Martín",
+    "nation": "ESP",
+    "pos": "DF,MF",
+    "squad": "Racing Sant",
+    "age": 29
+  },
+  {
+    "rk": 252,
+    "player": "Andrés Martín",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 27
+  },
+  {
+    "rk": 253,
+    "player": "Carlos Martín",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 24
+  },
+  {
+    "rk": 254,
+    "player": "Gerard Martín",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Barcelona",
+    "age": 24
+  },
+  {
+    "rk": 255,
+    "player": "Iván Martín",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 27
+  },
+  {
+    "rk": 256,
+    "player": "Jon Martin",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 20
+  },
+  {
+    "rk": 257,
+    "player": "Mario Martín",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Getafe",
+    "age": 22
+  },
+  {
+    "rk": 258,
+    "player": "Arnau Martinez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 23
+  },
+  {
+    "rk": 259,
+    "player": "Daniel Martinez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 22
+  },
+  {
+    "rk": 260,
+    "player": "Joaquín Martínez Gauna",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 23
+  },
+  {
+    "rk": 261,
+    "player": "Pablo Martínez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Malaga",
+    "age": 28
+  },
+  {
+    "rk": 262,
+    "player": "Sergio Martínez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 19
+  },
+  {
+    "rk": 263,
+    "player": "Toni Martínez",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Alaves",
+    "age": 29
+  },
+  {
+    "rk": 264,
+    "player": "Borja Mayoral",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Getafe",
+    "age": 29
+  },
+  {
+    "rk": 265,
+    "player": "Kylian Mbappé",
+    "nation": "FRA",
+    "pos": "FW",
+    "squad": "Real Madrid",
+    "age": 27
+  },
+  {
+    "rk": 266,
+    "player": "David Mella",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 21
+  },
+  {
+    "rk": 267,
+    "player": "Rodrigo Mendoza",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 21
+  },
+  {
+    "rk": 268,
+    "player": "Izan Merino",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Malaga",
+    "age": 20
+  },
+  {
+    "rk": 269,
+    "player": "Georges Mikautadze",
+    "nation": "GEO",
+    "pos": "FW",
+    "squad": "Villareal",
+    "age": 25
+  },
+  {
+    "rk": 270,
+    "player": "Pere Milla",
+    "nation": "ESP",
+    "pos": "FW,MF",
+    "squad": "Espanyol",
+    "age": 33
+  },
+  {
+    "rk": 271,
+    "player": "Johan Mojica",
+    "nation": "COL",
+    "pos": "DF,MF",
+    "squad": "Getafe",
+    "age": 34
+  },
+  {
+    "rk": 272,
+    "player": "Alberto Moleiro",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 22
+  },
+  {
+    "rk": 273,
+    "player": "Jon Moncayola",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 28
+  },
+  {
+    "rk": 274,
+    "player": "Javi Morcillo",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 20
+  },
+  {
+    "rk": 275,
+    "player": "Gerard Moreno",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Villareal",
+    "age": 34
+  },
+  {
+    "rk": 276,
+    "player": "Tete Morente",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 29
+  },
+  {
+    "rk": 277,
+    "player": "Ilaix Moriba",
+    "nation": "GUI",
+    "pos": "MF",
+    "squad": "celta Vigo",
+    "age": 23
+  },
+  {
+    "rk": 278,
+    "player": "Raúl Moro",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 23
+  },
+  {
+    "rk": 279,
+    "player": "Gabriel Moscardo",
+    "nation": "BRA",
+    "pos": "MF",
+    "squad": "Espanyol",
+    "age": 20
+  },
+  {
+    "rk": 280,
+    "player": "Santiago Mouriño",
+    "nation": "URU",
+    "pos": "DF",
+    "squad": "Villareal",
+    "age": 24
+  },
+  {
+    "rk": 281,
+    "player": "Aihen Muñoz",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 29
+  },
+  {
+    "rk": 282,
+    "player": "Iker Muñoz",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 23
+  },
+  {
+    "rk": 283,
+    "player": "Joaquín Muñoz",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Malaga",
+    "age": 27
+  },
+  {
+    "rk": 284,
+    "player": "Yanis Musuayi",
+    "nation": "BEL",
+    "pos": "FW",
+    "squad": "Levante",
+    "age": 19
+  },
+  {
+    "rk": 285,
+    "player": "Natan",
+    "nation": "BRA",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 25
+  },
+  {
+    "rk": 286,
+    "player": "Roberto Navarro",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 24
+  },
+  {
+    "rk": 287,
+    "player": "Ximo Navarro",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Deportivo",
+    "age": 36
+  },
+  {
+    "rk": 288,
+    "player": "Martim Neto",
+    "nation": "POR",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 23
+  },
+  {
+    "rk": 289,
+    "player": "Fernando Niño",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Elche",
+    "age": 25
+  },
+  {
+    "rk": 290,
+    "player": "Lucas Noubi",
+    "nation": "BEL",
+    "pos": "DF",
+    "squad": "Deportivo",
+    "age": 21
+  },
+  {
+    "rk": 291,
+    "player": "Bil Nsongo",
+    "nation": "CMR",
+    "pos": "FW,MF",
+    "squad": "Deportivo",
+    "age": 21
+  },
+  {
+    "rk": 292,
+    "player": "Randy Nteka",
+    "nation": "ANG",
+    "pos": "FW",
+    "squad": "Rayo Vallecano",
+    "age": 28
+  },
+  {
+    "rk": 293,
+    "player": "Álvaro Núñez",
+    "nation": "ESP",
+    "pos": "MF,DF",
+    "squad": "celta Vigo",
+    "age": 26
+  },
+  {
+    "rk": 294,
+    "player": "Unai Núñez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Espanyol",
+    "age": 29
+  },
+  {
+    "rk": 295,
+    "player": "Jan Oblak",
+    "nation": "SVN",
+    "pos": "GK",
+    "squad": "Atletico Madrid",
+    "age": 33
+  },
+  {
+    "rk": 296,
+    "player": "Job Ochieng'",
+    "nation": "KEN",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 23
+  },
+  {
+    "rk": 297,
+    "player": "Xanet Olaiz",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Alaves",
+    "age": 21
+  },
+  {
+    "rk": 298,
+    "player": "Olasagasti",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 26
+  },
+  {
+    "rk": 299,
+    "player": "Dani Olmo",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Barcelona",
+    "age": 28
+  },
+  {
+    "rk": 300,
+    "player": "Tani Oluwaseyi",
+    "nation": "CAN",
+    "pos": "FW",
+    "squad": "Villareal",
+    "age": 26
+  },
+  {
+    "rk": 301,
+    "player": "Aimar Oroz",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Osasuna",
+    "age": 24
+  },
+  {
+    "rk": 302,
+    "player": "Ángel Ortíz",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Betis",
+    "age": 22
+  },
+  {
+    "rk": 303,
+    "player": "Arnau Ortiz",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 24
+  },
+  {
+    "rk": 304,
+    "player": "Asier Osambela",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Osasuna",
+    "age": 22
+  },
+  {
+    "rk": 305,
+    "player": "Abiel Osorio",
+    "nation": "ARG",
+    "pos": "FW",
+    "squad": "Elche",
+    "age": 24
+  },
+  {
+    "rk": 306,
+    "player": "David Otorbi",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Valencia",
+    "age": 18
+  },
+  {
+    "rk": 307,
+    "player": "Mikel Oyarzabal",
+    "nation": "ESP",
+    "pos": "FW,MF",
+    "squad": "Real Sociedad",
+    "age": 29
+  },
+  {
+    "rk": 308,
+    "player": "Jon Pacheco",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 25
+  },
+  {
+    "rk": 309,
+    "player": "Álvaro Padilla",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Elche",
+    "age": 20
+  },
+  {
+    "rk": 310,
+    "player": "Isaac Palazón Camacho",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Rayo Vallecano",
+    "age": 31
+  },
+  {
+    "rk": 311,
+    "player": "Aitor Paredes",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 26
+  },
+  {
+    "rk": 312,
+    "player": "Troy Parrott",
+    "nation": "IRL",
+    "pos": "FW",
+    "squad": "Real Betis",
+    "age": 24
+  },
+  {
+    "rk": 313,
+    "player": "Pedri",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Barcelona",
+    "age": 23
+  },
+  {
+    "rk": 314,
+    "player": "Adrià Pedrosa",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Rayo Vallecano",
+    "age": 28
+  },
+  {
+    "rk": 315,
+    "player": "Nicolas Pépé",
+    "nation": "CIV",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 31
+  },
+  {
+    "rk": 316,
+    "player": "Peque",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Sevilla",
+    "age": 23
+  },
+  {
+    "rk": 317,
+    "player": "Ángel Pérez",
+    "nation": "ESP",
+    "pos": "MF,DF",
+    "squad": "Alaves",
+    "age": 24
+  },
+  {
+    "rk": 318,
+    "player": "Ayoze Pérez",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Villareal",
+    "age": 33
+  },
+  {
+    "rk": 319,
+    "player": "Francisco Perez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Rayo Vallecano",
+    "age": 24
+  },
+  {
+    "rk": 320,
+    "player": "Nacho Pérez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Levante",
+    "age": 18
+  },
+  {
+    "rk": 321,
+    "player": "Ezequiel Ponce",
+    "nation": "ARG",
+    "pos": "FW",
+    "squad": "Elche",
+    "age": 29
+  },
+  {
+    "rk": 322,
+    "player": "Matteo Prati",
+    "nation": "ITA",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 22
+  },
+  {
+    "rk": 323,
+    "player": "Marc Pubill",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 23
+  },
+  {
+    "rk": 324,
+    "player": "Gustavo Puerta",
+    "nation": "COL",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 23
+  },
+  {
+    "rk": 325,
+    "player": "Puga",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Malaga",
+    "age": 25
+  },
+  {
+    "rk": 326,
+    "player": "Giacomo Quagliata",
+    "nation": "ITA",
+    "pos": "DF",
+    "squad": "Deportivo",
+    "age": 26
+  },
+  {
+    "rk": 327,
+    "player": "Dani Raba",
+    "nation": "ESP",
+    "pos": "FW,MF",
+    "squad": "Valencia",
+    "age": 30
+  },
+  {
+    "rk": 328,
+    "player": "Ionuț Radu",
+    "nation": "ROU",
+    "pos": "GK",
+    "squad": "celta Vigo",
+    "age": 29
+  },
+  {
+    "rk": 329,
+    "player": "Pablo Ramon",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Racing Sant",
+    "age": 25
+  },
+  {
+    "rk": 330,
+    "player": "Raphinha",
+    "nation": "BRA",
+    "pos": "FW",
+    "squad": "Barcelona",
+    "age": 29
+  },
+  {
+    "rk": 331,
+    "player": "Andrei Ratiu",
+    "nation": "ROU",
+    "pos": "DF",
+    "squad": "Rayo Vallecano",
+    "age": 28
+  },
+  {
+    "rk": 332,
+    "player": "Raúl",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Osasuna",
+    "age": 25
+  },
+  {
+    "rk": 333,
+    "player": "Abde Rebbach",
+    "nation": "ALG",
+    "pos": "MF,DF",
+    "squad": "Alaves",
+    "age": 28
+  },
+  {
+    "rk": 334,
+    "player": "Ángel Recio",
+    "nation": "nan",
+    "pos": "DF",
+    "squad": "Malaga",
+    "age": null
+  },
+  {
+    "rk": 335,
+    "player": "Federico Redondo",
+    "nation": "ARG",
+    "pos": "DF",
+    "squad": "Elche",
+    "age": 23
+  },
+  {
+    "rk": 336,
+    "player": "Álex Remiro",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Real Sociedad",
+    "age": 31
+  },
+  {
+    "rk": 337,
+    "player": "Daniel Requena",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 22
+  },
+  {
+    "rk": 338,
+    "player": "Roy Revivo",
+    "nation": "ISR",
+    "pos": "DF",
+    "squad": "Elche",
+    "age": 23
+  },
+  {
+    "rk": 339,
+    "player": "Oriol Rey",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 28
+  },
+  {
+    "rk": 340,
+    "player": "Clemens Riedel",
+    "nation": "GER",
+    "pos": "DF",
+    "squad": "Espanyol",
+    "age": 23
+  },
+  {
+    "rk": 341,
+    "player": "Hugo Rincón",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Athletic Club",
+    "age": 23
+  },
+  {
+    "rk": 342,
+    "player": "Luis Rioja",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 32
+  },
+  {
+    "rk": 343,
+    "player": "Rodrigo Riquelme",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 26
+  },
+  {
+    "rk": 344,
+    "player": "Alberto Risco",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Getafe",
+    "age": 21
+  },
+  {
+    "rk": 345,
+    "player": "Marc Roca",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Betis",
+    "age": 29
+  },
+  {
+    "rk": 346,
+    "player": "Rodri",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Barcelona",
+    "age": 30
+  },
+  {
+    "rk": 347,
+    "player": "Guido Rodríguez",
+    "nation": "ARG",
+    "pos": "MF",
+    "squad": "Valencia",
+    "age": 32
+  },
+  {
+    "rk": 348,
+    "player": "Javi Rodríguez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "celta Vigo",
+    "age": 23
+  },
+  {
+    "rk": 349,
+    "player": "Miguel Rodríguez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 23
+  },
+  {
+    "rk": 350,
+    "player": "Mikel Rodriguez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 24
+  },
+  {
+    "rk": 351,
+    "player": "Rafa Rodríguez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Malaga",
+    "age": 23
+  },
+  {
+    "rk": 352,
+    "player": "Riki Rodríguez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 28
+  },
+  {
+    "rk": 353,
+    "player": "Leo Román",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Deportivo",
+    "age": 26
+  },
+  {
+    "rk": 354,
+    "player": "Miguel Román",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "celta Vigo",
+    "age": 23
+  },
+  {
+    "rk": 355,
+    "player": "Carlos Romero",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Villareal",
+    "age": 24
+  },
+  {
+    "rk": 356,
+    "player": "Cristian Romero",
+    "nation": "ARG",
+    "pos": "DF",
+    "squad": "Atletico Madrid",
+    "age": 28
+  },
+  {
+    "rk": 357,
+    "player": "Isaac Romero",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Sevilla",
+    "age": 26
+  },
+  {
+    "rk": 358,
+    "player": "Iván Romero",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Levante",
+    "age": 25
+  },
+  {
+    "rk": 359,
+    "player": "Zaid Romero",
+    "nation": "ARG",
+    "pos": "DF",
+    "squad": "Getafe",
+    "age": 26
+  },
+  {
+    "rk": 360,
+    "player": "Antonio Rüdiger",
+    "nation": "GER",
+    "pos": "DF",
+    "squad": "Real Madrid",
+    "age": 33
+  },
+  {
+    "rk": 361,
+    "player": "Javi Rueda",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "celta Vigo",
+    "age": 24
+  },
+  {
+    "rk": 362,
+    "player": "Mathew Ryan",
+    "nation": "AUS",
+    "pos": "GK",
+    "squad": "Levante",
+    "age": 34
+  },
+  {
+    "rk": 363,
+    "player": "Umar Sadiq",
+    "nation": "NGA",
+    "pos": "FW",
+    "squad": "Valencia",
+    "age": 29
+  },
+  {
+    "rk": 364,
+    "player": "Kike Salas",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Sevilla",
+    "age": 24
+  },
+  {
+    "rk": 365,
+    "player": "Nathan Saliba",
+    "nation": "CAN",
+    "pos": "MF",
+    "squad": "Villareal",
+    "age": 22
+  },
+  {
+    "rk": 366,
+    "player": "Jorge Salinas",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Racing Sant",
+    "age": 19
+  },
+  {
+    "rk": 367,
+    "player": "José Salinas",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Malaga",
+    "age": 25
+  },
+  {
+    "rk": 368,
+    "player": "Oihan Sancet",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 26
+  },
+  {
+    "rk": 369,
+    "player": "Kevin Sánchez",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Deportivo",
+    "age": 21
+  },
+  {
+    "rk": 370,
+    "player": "Manu Sánchez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Levante",
+    "age": 26
+  },
+  {
+    "rk": 371,
+    "player": "Arouna Sangante",
+    "nation": "SEN",
+    "pos": "DF",
+    "squad": "Sevilla",
+    "age": 24
+  },
+  {
+    "rk": 372,
+    "player": "Buba Sangaré",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Elche",
+    "age": 19
+  },
+  {
+    "rk": 373,
+    "player": "Maroan Sannadi",
+    "nation": "MAR",
+    "pos": "FW",
+    "squad": "Athletic Club",
+    "age": 25
+  },
+  {
+    "rk": 374,
+    "player": "Marc Santos",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Levante",
+    "age": 15
+  },
+  {
+    "rk": 375,
+    "player": "Mamadou Sarr",
+    "nation": "SEN",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 21
+  },
+  {
+    "rk": 376,
+    "player": "Ryūnosuke Satō",
+    "nation": "JPN",
+    "pos": "MF",
+    "squad": "Valencia",
+    "age": 19
+  },
+  {
+    "rk": 377,
+    "player": "Martin Satriano",
+    "nation": "URU",
+    "pos": "FW",
+    "squad": "Getafe",
+    "age": 25
+  },
+  {
+    "rk": 378,
+    "player": "Saba Sazonov",
+    "nation": "GEO",
+    "pos": "DF",
+    "squad": "Getafe",
+    "age": 24
+  },
+  {
+    "rk": 379,
+    "player": "Francho Serrano",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Getafe",
+    "age": 24
+  },
+  {
+    "rk": 380,
+    "player": "Bernardo Silva",
+    "nation": "POR",
+    "pos": "MF",
+    "squad": "Real Madrid",
+    "age": 32
+  },
+  {
+    "rk": 381,
+    "player": "Giuliano Simeone",
+    "nation": "ARG",
+    "pos": "MF",
+    "squad": "Atletico Madrid",
+    "age": 23
+  },
+  {
+    "rk": 382,
+    "player": "Unai Simón",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Athletic Club",
+    "age": 29
+  },
+  {
+    "rk": 383,
+    "player": "Antonio Sivera",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Alaves",
+    "age": 30
+  },
+  {
+    "rk": 384,
+    "player": "Carlos Soler",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 29
+  },
+  {
+    "rk": 385,
+    "player": "David Soria",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Getafe",
+    "age": 33
+  },
+  {
+    "rk": 386,
+    "player": "Mario Soriano",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 24
+  },
+  {
+    "rk": 387,
+    "player": "Hugo Sotelo",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Levante",
+    "age": 22
+  },
+  {
+    "rk": 388,
+    "player": "Carl Starfelt",
+    "nation": "SWE",
+    "pos": "DF",
+    "squad": "celta Vigo",
+    "age": 31
+  },
+  {
+    "rk": 389,
+    "player": "Lucas Stassin",
+    "nation": "BEL",
+    "pos": "FW",
+    "squad": "Sevilla",
+    "age": 21
+  },
+  {
+    "rk": 390,
+    "player": "Orri Steinn Óskarsson",
+    "nation": "ISL",
+    "pos": "FW",
+    "squad": "Real Sociedad",
+    "age": 22
+  },
+  {
+    "rk": 391,
+    "player": "Denis Suárez",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Alaves",
+    "age": 32
+  },
+  {
+    "rk": 392,
+    "player": "Gabriel Suazo",
+    "nation": "CHI",
+    "pos": "DF",
+    "squad": "Sevilla",
+    "age": 29
+  },
+  {
+    "rk": 393,
+    "player": "Luka Sučić",
+    "nation": "CRO",
+    "pos": "MF,FW",
+    "squad": "Real Sociedad",
+    "age": 24
+  },
+  {
+    "rk": 394,
+    "player": "Williot Swedberg",
+    "nation": "SWE",
+    "pos": "FW",
+    "squad": "celta Vigo",
+    "age": 22
+  },
+  {
+    "rk": 395,
+    "player": "César Tárrega",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 24
+  },
+  {
+    "rk": 396,
+    "player": "Nahuel Tenaglia",
+    "nation": "ARG",
+    "pos": "DF",
+    "squad": "Alaves",
+    "age": 30
+  },
+  {
+    "rk": 397,
+    "player": "Ramón Terrats",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Getafe",
+    "age": 25
+  },
+  {
+    "rk": 398,
+    "player": "Jeremy Toljan",
+    "nation": "GER",
+    "pos": "DF,MF",
+    "squad": "Levante",
+    "age": 32
+  },
+  {
+    "rk": 399,
+    "player": "Lucas Torró",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Osasuna",
+    "age": 32
+  },
+  {
+    "rk": 400,
+    "player": "Adama Traoré",
+    "nation": "ESP",
+    "pos": "FW,MF",
+    "squad": "Deportivo",
+    "age": 30
+  },
+  {
+    "rk": 401,
+    "player": "Heorhii Tsitaishvili",
+    "nation": "GEO",
+    "pos": "MF",
+    "squad": "Rayo Vallecano",
+    "age": 25
+  },
+  {
+    "rk": 402,
+    "player": "Kareem Tunde",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Levante",
+    "age": 21
+  },
+  {
+    "rk": 403,
+    "player": "Beñat Turrientes",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Real Sociedad",
+    "age": 24
+  },
+  {
+    "rk": 404,
+    "player": "Filip Ugrinic",
+    "nation": "SUI",
+    "pos": "MF",
+    "squad": "Valencia",
+    "age": 27
+  },
+  {
+    "rk": 405,
+    "player": "Enes Ünal",
+    "nation": "TUR",
+    "pos": "FW",
+    "squad": "Getafe",
+    "age": 29
+  },
+  {
+    "rk": 406,
+    "player": "Robbie Ure",
+    "nation": "SCO",
+    "pos": "FW",
+    "squad": "Sevilla",
+    "age": 22
+  },
+  {
+    "rk": 407,
+    "player": "Óscar Valentín",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Rayo Vallecano",
+    "age": 32
+  },
+  {
+    "rk": 408,
+    "player": "Nicolás Valentini",
+    "nation": "ARG",
+    "pos": "DF",
+    "squad": "Alaves",
+    "age": 25
+  },
+  {
+    "rk": 409,
+    "player": "Germán Valera",
+    "nation": "ESP",
+    "pos": "DF,MF",
+    "squad": "Elche",
+    "age": 24
+  },
+  {
+    "rk": 410,
+    "player": "Álvaro Vallés",
+    "nation": "ESP",
+    "pos": "GK",
+    "squad": "Real Betis",
+    "age": 29
+  },
+  {
+    "rk": 411,
+    "player": "Jean Valou",
+    "nation": "CIV",
+    "pos": "DF",
+    "squad": "Getafe",
+    "age": 19
+  },
+  {
+    "rk": 412,
+    "player": "Federico Valverde",
+    "nation": "URU",
+    "pos": "MF",
+    "squad": "Real Madrid",
+    "age": 28
+  },
+  {
+    "rk": 413,
+    "player": "Ruben Vargas",
+    "nation": "SUI",
+    "pos": "FW,MF",
+    "squad": "Sevilla",
+    "age": 28
+  },
+  {
+    "rk": 414,
+    "player": "José Luis García Vayá",
+    "nation": "ESP",
+    "pos": "DF,MF",
+    "squad": "Valencia",
+    "age": 28
+  },
+  {
+    "rk": 415,
+    "player": "Jesus Vazquez",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Valencia",
+    "age": 23
+  },
+  {
+    "rk": 416,
+    "player": "Renato Veiga",
+    "nation": "POR",
+    "pos": "DF",
+    "squad": "Villareal",
+    "age": 23
+  },
+  {
+    "rk": 417,
+    "player": "Jozhua Vertrouwd",
+    "nation": "NED",
+    "pos": "DF",
+    "squad": "Rayo Vallecano",
+    "age": 22
+  },
+  {
+    "rk": 418,
+    "player": "Iñigo Vicente",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Racing Sant",
+    "age": 28
+  },
+  {
+    "rk": 419,
+    "player": "Asier Villalibre",
+    "nation": "ESP",
+    "pos": "FW",
+    "squad": "Racing Sant",
+    "age": 28
+  },
+  {
+    "rk": 420,
+    "player": "Gonzalo Villar",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Elche",
+    "age": 28
+  },
+  {
+    "rk": 421,
+    "player": "Diego Villares",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Deportivo",
+    "age": 30
+  },
+  {
+    "rk": 422,
+    "player": "Odysseas Vlachodimos",
+    "nation": "GRE",
+    "pos": "GK",
+    "squad": "Sevilla",
+    "age": 32
+  },
+  {
+    "rk": 423,
+    "player": "Iñaki Williams",
+    "nation": "GHA",
+    "pos": "MF,FW",
+    "squad": "Athletic Club",
+    "age": 32
+  },
+  {
+    "rk": 424,
+    "player": "Nico Williams",
+    "nation": "ESP",
+    "pos": "MF",
+    "squad": "Athletic Club",
+    "age": 24
+  },
+  {
+    "rk": 425,
+    "player": "Lamine Yamal",
+    "nation": "ESP",
+    "pos": "MF,FW",
+    "squad": "Barcelona",
+    "age": 19
+  },
+  {
+    "rk": 426,
+    "player": "Rockson Yeboah",
+    "nation": "GHA",
+    "pos": "DF",
+    "squad": "Osasuna",
+    "age": 22
+  },
+  {
+    "rk": 427,
+    "player": "Yassir Zabiri",
+    "nation": "MAR",
+    "pos": "FW",
+    "squad": "Racing Sant",
+    "age": 21
+  },
+  {
+    "rk": 428,
+    "player": "Arsen Zakharyan",
+    "nation": "RUS",
+    "pos": "FW,MF",
+    "squad": "Real Sociedad",
+    "age": 23
+  },
+  {
+    "rk": 429,
+    "player": "Bryan Zaragoza",
+    "nation": "ESP",
+    "pos": "FW,MF",
+    "squad": "Espanyol",
+    "age": 25
+  },
+  {
+    "rk": 430,
+    "player": "Igor Zubeldia",
+    "nation": "ESP",
+    "pos": "DF",
+    "squad": "Real Sociedad",
+    "age": 29
+  }
+]
